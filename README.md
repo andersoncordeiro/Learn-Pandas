@@ -1,4 +1,5 @@
-<img src="./images/topo.jpg">
+<img src="./images/topo.jpg"/>
+
 # Aprenda Pandas
 
 > Neste repositório eu reuno alguns materiais interessantes sobre a biblioteca Pandas que podem servir de exemplo para quem quer aprender a utilizar a ferramenta ou consulta para quem já conhece!
